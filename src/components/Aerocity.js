@@ -1,10 +1,13 @@
 import React from "react";
+import Demandbook from './Demandbook'
+import Testimonials from './Testimonials'
+import Lets from './Lets'
 const Aerocity = () => {
   return (
     <>
-      <div classNameNameName="banner">
-        <div classNameName="container">
-          <div classNameName="row">
+      <div className="banner">
+        <div className="container">
+          <div className="row">
             <h1>
               Coworking Spaces
               <br />
@@ -34,6 +37,9 @@ const Aerocity = () => {
            </div>
         </div>
      </section>
+     <Demandbook/>
+     <Testimonials/>
+     <Lets/>
     </>
   );
 };
