@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <>
@@ -24,7 +25,7 @@ const Footer = () => {
                           <h5 className="white">Coworking Spaces</h5>
                           <a href="#">Flexible Workspace India</a>
                           <a href="#">Shared Office Spaces</a>
-                          <a href="/Aerocity">Coworking Locations</a>
+                          <Link to="/Aerocity">Coworking Locations</Link>
                           <a href="#">Affordable Coworking</a>
                       </div>
                       <div className="col-md-3">
