@@ -9,6 +9,7 @@ import Demandbook from './Demandbook'
 import Testimonials from './Testimonials'
 import Lets from './Lets'
 import UpcomingfindSpace from "./UpcomingfindSpace";
+import NewEvents from "./NewEvents";
 const Aerocity = () => {
   const itemsData = [
     {
@@ -79,6 +80,7 @@ const Aerocity = () => {
      </section>
      <Demandbook/>
      <UpcomingfindSpace/>
+     <NewEvents/>
      <Testimonials/>
      <Lets/>
     </>
