@@ -24,7 +24,7 @@ const Footer = () => {
                       <div className="col-md-3">
                           <h5 className="white">Coworking Spaces</h5>
                           <a href="#">Flexible Workspace India</a>
-                          <a href="#">Shared Office Spaces</a>
+                          <Link to="/Coworkingspaces">Shared Office Spaces</Link>
                           <Link to="/Aerocity">Coworking Locations</Link>
                           <a href="#">Affordable Coworking</a>
                       </div>

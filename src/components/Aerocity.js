@@ -10,6 +10,8 @@ import Testimonials from './Testimonials'
 import Lets from './Lets'
 import UpcomingfindSpace from "./UpcomingfindSpace";
 import NewEvents from "./NewEvents";
+import Frequently from "./Frequently";
+import Nearcenter from "./Nearcenter";
 const Aerocity = () => {
   const itemsData = [
     {
@@ -81,7 +83,9 @@ const Aerocity = () => {
      <Demandbook/>
      <UpcomingfindSpace/>
      <NewEvents/>
+     <Frequently/>
      <Testimonials/>
+     <Nearcenter/>
      <Lets/>
     </>
   );
