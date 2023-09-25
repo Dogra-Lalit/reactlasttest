@@ -1,7 +1,7 @@
 import React from "react";
-import group27 from '../images/Group27.png';
-import Rectangle24 from '../images/Rectangle24.png';
-import Rectangle25 from '../images/Rectangle25.png';
+import group27 from '../images/Group27.JPG';
+import Rectangle24 from '../images/Rectangle24.jpg';
+import Rectangle25 from '../images/Rectangle25.jpeg';
 const Slider = () => {
   return (
     <>
@@ -38,17 +38,13 @@ const Slider = () => {
                         <p className="white">Hours Open</p>
                       </li>
                     </ul>
-                    <form>
-                      <input
-                        type="text"
-                        name=""
-                        placeholder="Select Your City"
-                      />
-                      <button>Get Workspace</button>
-                    </form>
                   </div>
                 </div>
               </div>
+              <form>
+                  <input type="text" name="" placeholder="Select Your City" className="border"  />
+                      <button>Find Your Workspace</button>
+                </form>
             </div>
             <div className="col-md-4">
               <figure className="mb_bootom line-top">

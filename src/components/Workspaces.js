@@ -1,7 +1,7 @@
 import React from 'react'
-import Rectangle37 from '../images/Rectangle37.png';
-import Rectangle38 from '../images/Rectangle38.png';
-import Rectangle39 from '../images/Rectangle39.png';
+import Rectangle37 from '../images/Rectangle37.jpg';
+import Rectangle38 from '../images/Rectangle38.jpg';
+import Rectangle39 from '../images/Rectangle39.JPG';
 import line from '../images/line.svg';
 
 const itemsData = [
@@ -20,6 +20,7 @@ const itemsData = [
       imgSrc: Rectangle39, // Use the imported variable
       lineImgSrc: line, // Use the imported variable
     },
+    
     // Add more data objects for additional items
   ];
 const Workspaces = () => {

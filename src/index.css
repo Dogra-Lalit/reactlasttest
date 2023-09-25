@@ -545,6 +545,7 @@ header nav ul li.link_btn a:hover {
     font-weight: 500;
     color: #000;
     opacity: .25;
+    text-transform:uppercase;
 }
 
 .upcoming .box p {
@@ -885,7 +886,7 @@ footer {
     display: flex;
     overflow: hidden;
     background: #fff;
-    border-radius: 3px;
+    border-radius:50px;
     margin-top: 25px !important;
 }
 
@@ -963,7 +964,8 @@ footer p.copy {
 .dbook .box a h5 {
     color: #fff;
     margin: 0;
-    font-size: 18px;
+    font-size: 19px;
+    text-transform:capitalize;
 }
 
 .dbook .box a span {

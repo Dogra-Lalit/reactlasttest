@@ -36,6 +36,12 @@ const itemsData = [
     lineImgSrc: line, // Use the imported variable
   },
   {
+    title: "Events Spaces",
+    imgSrc: Rectangle37, // Use the imported variable
+    lineImgSrc: line, // Use the imported variable
+  },
+
+  {
     title: "Meeting rooms",
     imgSrc: Rectangle25, // Use the imported variable
     lineImgSrc: line, // Use the imported variable

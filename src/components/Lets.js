@@ -6,17 +6,17 @@ const Lets = () => {
         <div className="lets">
           <div className="box">
               <h2>Let’s talk to coffee about you requirements.</h2>
-              <p>Please take a minute to outline your requirement. Our solutions expert will be in touch shortly.</p>
+              <p>Please take a minute to outline your requirement. Our solutions expert will be in touch shortly. Call Us On </p>
               <form>
                   <ul>
                       <li>
-                          <label>First Name</label>
+                          <label>Name</label>
                           <input type="text" name="" placeholder=""/>
                       </li>
 
                       <li>
-                          <label>Last Name</label>
-                          <input type="text" name="" placeholder=""/>
+                          <label>Email</label>
+                          <input type="email" name="" placeholder=""/>
                       </li>
 
                       <li>
@@ -37,6 +37,7 @@ const Lets = () => {
                       <li className="w-100">
                         <button className="link">Submit</button>
                       </li>
+                      * Your data is save with us and won't be shared with anyone.
                   </ul>
               </form>
           </div>

@@ -18,6 +18,7 @@ const Wosquare = () => {
                     <Tab className="nav-item"><a className="nav-link">Location</a></Tab>
                     <Tab className="nav-item"><a className="nav-link">Flexibility</a></Tab>
                     <Tab className="nav-item"><a className="nav-link">Design</a></Tab>
+                    <Tab className="nav-item"><a className="nav-link">Experience</a></Tab>
                   </TabList>
                   <TabPanel className="tab-content tab-pane">
                     <h5>Expansive network</h5>

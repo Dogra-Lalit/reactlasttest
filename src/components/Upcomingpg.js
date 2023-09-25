@@ -1,28 +1,28 @@
 import React from "react";
-import Rectangle46 from "../images/Rectangle46.png";
-import Rectangle48 from "../images/Rectangle48.png";
-import Rectangle50 from "../images/Rectangle50.png";
-import Rectangle79 from "../images/Rectangle79.png";
+import Rectangle46 from "../images/Rectangle46.jpeg";
+import Rectangle48 from "../images/Rectangle48.jpeg";
+import Rectangle50 from "../images/Rectangle50.JPG";
+import Rectangle79 from "../images/Rectangle79.jpeg";
 const Upcomingpg = () => {
   const itemsData = [
     {
-      city: "Banglore",
-      state: "KARNATAKA",
+      city: "Mumbai",
+      state: "Maharashtra",
       desc: "Choose a workspace from over 16 expansive centres spread across over 1.2 million sq. ft. area in India.",
     },
     {
-      city: "Gurugram",
-      state: "HARYANA",
+      city: "Ahmedabad",
+      state: "Gujarat",
       desc: "Choose a workspace from over 16 expansive centres spread across over 1.2 million sq. ft. area in India.",
     },
     {
-      city: "Hyderabad",
-      state: "TELANGANA",
+      city: "Bengaluru",
+      state: "Karnataka",
       desc: "Choose a workspace from over 16 expansive centres spread across over 1.2 million sq. ft. area in India.",
     },
     {
-      city: "New Delhi",
-      state: "DELHI",
+      city: "Pune",
+      state: "Maharashtra",
       desc: "Choose a workspace from over 16 expansive centres spread across over 1.2 million sq. ft. area in India.",
     },
     // Add more data objects for additional items

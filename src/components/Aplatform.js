@@ -21,7 +21,7 @@ const Aplatform = () => {
                   <br /> experience.
                 </h2>
                 <p>
-                  Get a <b className="orange">day pass at just 399</b> for a
+                  Get a <b className="orange">day pass at just 499</b> for a
                   taste
                   <br /> of tomorrow's workspace.
                 </p>

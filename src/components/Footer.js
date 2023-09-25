@@ -9,7 +9,7 @@ const Footer = () => {
                   <div className="row justify-content-center">
                       <div className="col-md-6 text-center">
                           <h2 className="white mb-0">Connect With Us</h2>
-                          <p className="white">Subscribe to our e-mail list.</p>
+                          <p className="white">Subscribe to our newsletter list.</p>
                           <form>
                               <input type="text" name="" placeholder="Email Address"/>
                               <button className="link">Submit</button>
@@ -23,10 +23,10 @@ const Footer = () => {
                   <div className="row">
                       <div className="col-md-3">
                           <h5 className="white">Coworking Spaces</h5>
-                          <a href="#">Flexible Workspace India</a>
-                          <Link to="/Coworkingspaces">Shared Office Spaces</Link>
-                          <Link to="/Aerocity">Coworking Locations</Link>
-                          <a href="#">Affordable Coworking</a>
+                          <Link to="#">Coworking Space In Sector-62 Noida</Link>
+                          <Link to="#">Coworking Space In Sona-Road Gurugram</Link>
+                          <Link to="/Coworkingspaces">Coworking Space In MG-Road Gurugram</Link>
+                          <Link to="/Aerocity">Coworking Space In Aerocity</Link>
                       </div>
                       <div className="col-md-3">
                           <h5 className="white">Managed Offices</h5>
