@@ -57,7 +57,8 @@ const Wosquare = () => {
             <div className="col-md-6">
               <figure className="line-bottom">
                 <span>
-                  <img src="images/Maskgroup.png" />
+                  {/* <img src="images/Maskgroup.png" /> */}
+                  <img src="images/OfisSquareentrance.jpeg" />
                 </span>
               </figure>
             </div>

@@ -9,7 +9,8 @@ const Aplatform = () => {
             <div className="col-md-6">
               <figure className="line-left">
                 <span>
-                  <img src="images/Rectangle52.png" />
+                  {/* <img src="images/Rectangle52.png" /> */}
+                  <img src="images/belowtestimonial.jpeg" />
                 </span>
               </figure>
             </div>

@@ -3,10 +3,11 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 // Import the image files correctly
-import Rectangle24 from "../images/Rectangle24.png";
-import Rectangle25 from "../images/Rectangle25.png";
-import Rectangle37 from "../images/Rectangle37.png";
-import Rectangle52 from "../images/Rectangle52.png";
+import Rectangle24 from "../images/conferenceroom.jpg";
+import Rectangle25 from "../images/Rectangle25.JPG";
+import Rectangle37 from "../images/Rectangle37.jpeg";
+import Rectangle37a from "../images/Rectangle37.png";
+import Rectangle52 from "../images/Rectangle52.jpg";
 import line from "../images/line.svg";
 
 const itemsData = [
@@ -37,7 +38,7 @@ const itemsData = [
   },
   {
     title: "Events Spaces",
-    imgSrc: Rectangle37, // Use the imported variable
+    imgSrc: Rectangle37a, // Use the imported variable
     lineImgSrc: line, // Use the imported variable
   },
 

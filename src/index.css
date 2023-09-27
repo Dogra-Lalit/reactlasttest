@@ -437,7 +437,8 @@ header nav ul li.link_btn a:hover {
 
 /*-- workspaces --*/
 .workspaces {
-    background: url(/public/images/Group28.png) no-repeat fixed;
+    /* background: url(/public/images/Group28.png) no-repeat fixed; */
+    background: url(/public/images/Group28.jpeg) no-repeat fixed;
     background-size: cover;
 }
 
@@ -797,7 +798,8 @@ header nav ul li.link_btn a:hover {
 }
 
 .lets {
-    background: url(/public/images/lets.png) center no-repeat fixed;
+    /* background: url(/public/images/lets.png) center no-repeat fixed; */
+    background: url(/public/images/Let’stalktocoffee .jpg) center no-repeat fixed;
     justify-content: flex-end;
     background-size: cover;
     display: flex;
